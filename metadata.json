@@ -1,0 +1,5 @@
+{
+  "name": "Route Optimizer AI",
+  "description": "An intelligent route planning application that parses addresses from an Excel file, validates them using AI, and calculates the most efficient travel route.",
+  "requestFramePermissions": []
+}
